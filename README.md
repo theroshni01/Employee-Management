@@ -9,21 +9,21 @@
    *  Private Route and Public Route
 
 ## Backend Technologies :
-     * Java
-     * Spring Boot
-     * Maven
-     * JPA
-     * Spring Web
+   * Java
+   * Spring Boot
+   * Maven
+   * JPA
+   * Spring Web
 
 ## Database :
-     * MySQL
+   * MySQL
      
 ## Tools Used :
-    * IntelliJ COmmunity Edition
-    * MySQL Workbench
-    * VS Code
-    * PostMan
-    * StackOverflow
+  * IntelliJ COmmunity Edition
+  * MySQL Workbench
+  *  VS Code
+  * PostMan
+  * StackOverflow
 
 ## Project UI:
 
