@@ -21,21 +21,26 @@ Tools Used :
     MySQL Workbench
     VS Code
     PostMan
+    StackOverflow
 
 Project Overview:
- Frontend design of the project looks like...
+
+ Frontend design of the project looks like this...
 
  Home Page with Employee Details...
 
- ![Home](https://github.com/user-attachments/assets/82a9a04c-7a01-4cba-8bad-d379f4f373d1)
+![Home](https://github.com/user-attachments/assets/52461e15-c296-4752-b22c-69bb538916da)
 
-  Adding Employee Details in Table/Database...
 
-  ![Post Employee](https://github.com/user-attachments/assets/26ad0152-3f53-4d23-b85f-57db3aad4547)
+Adding Employee Details in Table/Database...
+
+![Post Employee](https://github.com/user-attachments/assets/549a8691-cb75-49fa-85a2-70a24ac8b57d)
+
 
 Editing the Employee Details after clicking the Update button...
 
-![Edit Employee](https://github.com/user-attachments/assets/8c388f1b-0519-47f2-b70b-a57765e7ad42)
+![Edit Employee](https://github.com/user-attachments/assets/d0d8f5c8-3078-422e-8d3f-958463c85f0d)
+
 
 Refered By :
 
